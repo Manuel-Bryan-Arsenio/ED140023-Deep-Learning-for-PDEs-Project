@@ -36,3 +36,12 @@ The report links directly to `Problem_B_Results/Problem_B_Result_5_final.ipynb` 
 - `Problem_C_Results/Figures`: folder filled with all figures from the notebook relevant for Problem C.
 
 The report links directly to `Problem_C_Results/Problem_C_Result_4_final.ipynb` as the original code for Problem C, unless stated otherwise.
+
+## Problem D
+
+- `Problem_D.ipynb`: working/development notebook for Problem D.
+- `Problem_D_Results/Problem_D_Result_3_final.ipynb`: final reported run used in the report.
+- `Problem_D_Results/Problem_D_Result_1.ipynb` and `Problem_d_Result_2.ipynb`: supplementary hyperparameter trials.
+- `Problem_D_Results/Figures`: folder filled with all figures from the notebook relevant for Problem D.
+
+The report links directly to `Problem_D_Results/Problem_D_Result_3_final.ipynb` as the original code for Problem D, unless stated otherwise.
